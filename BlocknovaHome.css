@@ -1,0 +1,89 @@
+
+
+body {
+
+text-align: center;
+ background-color: #282828;
+
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+ 
+  padding: 30px;
+  text-align: center;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #282828;
+  margin-top: 10px;
+      justify-content: space-around;
+}
+
+ul li.Logo{
+  margin-top: 0px;
+  float: left;
+}
+
+ul li.Blocknova{
+ margin-top: 55px;
+  float: center;
+  font-size: 100px;
+     text-shadow: -3px 1px 1px #ff7a07;
+  
+  font-family: "Bauhaus 93";
+  color: #fdbc0a;
+}
+
+
+ul li.Sign_up{
+ margin-top: 55px;
+  float: right;
+}
+
+
+
+
+li {
+padding-left: 90px;
+padding-right: 90px;
+display: inline;
+font-family: "Segoe UI Semibold";
+
+
+}
+li a {
+  color: #fdbc0a;
+  text-align: center;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #282828;
+  color: white;
+  transition: ease-in 0.2s;
+}
+
+
+
+
+img{
+  padding: 0px;
+ position: relative;
+  border-radius: 20px;
+    top: 25px;
+    right: 0px;
+     width: 80px;
+
+}
+
+#board{
+
+background-color: black ;
+border-top: 3px solid #FDBC0A ;
+border-left: 3px solid #FDBC0A;
+border-right: 3px solid #FDBC0A;
+border-bottom: 3px solid #ff8300;
+}
+
+
